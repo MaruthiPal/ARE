@@ -24,8 +24,12 @@ Selenium WebDriver refers to both the language bindings and the implementations 
 * Maven need to installed.
 * Have one of the editor with you like Eclipse or IntelliJ.
 
-### Steps to clone execute the tests
+## Steps to clone the project
 ```
 git clone https://github.com/MaruthiPal/ARE.git
-mvn clean test
+```
+
+## Steps to execute the tests
+```
+Right click on the "testng.xml" -> Run as -> "TestNG Suite"
 ```
